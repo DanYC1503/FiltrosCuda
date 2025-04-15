@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Motion_blur_cuda", "Motion_blur_cuda\Motion_blur_cuda.vcxproj", "{667D8493-2590-5626-0063-B4F3547C422E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\test.jpg = ..\..\..\Downloads\test.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667D8493-2590-5626-0063-B4F3547C422E}.Debug|x64.ActiveCfg = Debug|x64
+		{667D8493-2590-5626-0063-B4F3547C422E}.Debug|x64.Build.0 = Debug|x64
+		{667D8493-2590-5626-0063-B4F3547C422E}.Release|x64.ActiveCfg = Release|x64
+		{667D8493-2590-5626-0063-B4F3547C422E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B7D8B7-A1EA-42B7-890C-5DF320C58517}
+	EndGlobalSection
+EndGlobal
